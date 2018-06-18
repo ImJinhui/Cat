@@ -105,11 +105,6 @@
   <div class="container">
     <h3 class="text-center"><a class="shopping_title" href="<c:url value='/shoplist'/>">Shopping</a></h3>
     <p class="text-center">Lorem ipsum we'll play you some music.<br> Remember to book your tickets!</p>
-    <ul class="list-group">
-      <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
-      <li class="list-group-item">October <span class="label label-danger">Sold Out!</span></li> 
-      <li class="list-group-item">November <span class="badge">3</span></li> 
-    </ul>
     
     <div class="row text-center">
       <div class="col-sm-4">
